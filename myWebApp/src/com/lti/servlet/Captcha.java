@@ -19,11 +19,8 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class Captcha
  * line changed for git check history
-<<<<<<< HEAD
- * heheheh 
-=======
  * line changed for conflict check s
->>>>>>> branch 'master' of https://github.com/aathira7/fictional-giggle.git
+ * 566 
  */
 @WebServlet("/Captcha")
 public class Captcha extends HttpServlet {
